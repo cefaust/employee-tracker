@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "Michael",
+    "last_name": "Kart",
+    "role_id": "1",
+    "manager_id": null
+  },
+  {
+    "first_name": "Dylan",
+    "last_name": "Jame",
+    "role_id": "3",
+    "manager_id": null
+  },
+  {
+    "first_name": "Dan",
+    "last_name": "Smith",
+    "role_id": "1",
+    "manager_id": "2"
+  },
+  {
+    "first_name": "Grace",
+    "last_name": "Williams",
+    "role_id": "3",
+    "manager_id": "3"
+  },
+  {
+    "first_name": "Homer",
+    "last_name": "Simpson",
+    "role_id": "4",
+    "manager_id": null
+  },
+  {
+    "first_name": "Lisa",
+    "last_name": "Simpson",
+    "role_id": "4",
+    "manager_id": "5"
+  },
+  {
+    "first_name": "Bart",
+    "last_name": "Simpson",
+    "role_id": "2",
+    "manager_id": null
+  },
+  {
+    "first_name": "Maggie",
+    "last_name": "Simpson",
+    "role_id": "2",
+    "manager_id": "7"
+  }
+]
